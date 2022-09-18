@@ -1,4 +1,4 @@
-#### This is simple Edgedetection project using canny edge detector in realTime throyg any video or webcam 
+#### This is simple Edgedetection project using canny edge detector in realTime Through  any video or webcam 
 
 
 # `OUTPUT`
